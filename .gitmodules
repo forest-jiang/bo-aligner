@@ -1,0 +1,9 @@
+[submodule "dictionaries"]
+	path = dictionaries
+	url = https://github.com/OpenPecha/dictionaries.git
+[submodule "hunalign"]
+	path = hunalign
+	url = https://github.com/forest-jiang/hunalign.git
+[submodule "data-translation-memory"]
+	path = data-translation-memory
+	url = https://github.com/84000/data-translation-memory.git
